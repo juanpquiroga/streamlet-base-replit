@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Juan Pablo Quiroga <juanpquiroga@gmail.com>"]
 readme = "README.md"
-packages = [{include = "streamlet_base_replit"}]
 
 [tool.poetry.dependencies]
 python = ">=3.9.8,<3.10"
